@@ -1,0 +1,205 @@
+school_name,state_name,lowest_grade_offered,highest_grade_offered,total_students_all_grades,free_and_reduced_lunch_students,reduced-price_lunch_eligible_students,latitude,longitude,magnet_school,charter_school,shared_time_school,urban-centric_locale,school_id_nces_assigned_latest_available_year,county_name,mailing_address_3,location_zip,urban_centric_locale,school_wide_title_i,state_agency_id,state_school_id
+ABERDEEN HIGH,Maryland,9th Grade,12th Grade,1458,661,124,39.516307,-76.171125,1-Yes,2-No,2-No,22-Suburb: Mid-size,240039000679,Harford County,†,21001,22-Suburb: Mid-size,1-Yes,MD-12,MD-12-120270
+ACADEMY OF HEALTH SCIENCES AT PGCC,Maryland,9th Grade,12th Grade,518,237,67,38.886849,-76.830282,1-Yes,2-No,2-No,21-Suburb: Large,240051001704,Prince George's County,†,20774,21-Suburb: Large,†,MD-16,MD-16-161350
+ACHIEVEMENT ACADEMY @ HARBOR CITY HIGH,Maryland,9th Grade,12th Grade,411,411,"=""0""",39.36573,-76.56993100000003,2-No,2-No,2-No,11-City: Large,240009000236,Baltimore city,†,21214,11-City: Large,†,MD-30,MD-30-300413
+ALBERT EINSTEIN HIGH,Maryland,9th Grade,12th Grade,1746,633,147,39.039079,-77.067288,2-No,2-No,2-No,21-Suburb: Large,240048000773,Montgomery County,†,20895,21-Suburb: Large,2-No,MD-15,MD-15-150789
+ALLEGANY HIGH,Maryland,9th Grade,12th Grade,721,264,40,39.655478,-78.79469499999998,2-No,2-No,2-No,13-City: Small,240003000001,Allegany County,†,21502,13-City: Small,†,MD-01,MD-01-010606
+ANNAPOLIS HIGH,Maryland,9th Grade,12th Grade,1981,854,112,38.97449,-76.565609,2-No,2-No,2-No,21-Suburb: Large,240006000037,Anne Arundel County,†,21401,21-Suburb: Large,2-No,MD-02,MD-02-024013
+ANNE ARUNDEL EVENING HIGH,Maryland,9th Grade,12th Grade,278,3,3,39.076619,-76.55828199999998,2-No,2-No,2-No,21-Suburb: Large,240006000899,Anne Arundel County,†,21146,21-Suburb: Large,†,MD-02,MD-02-022233
+ARUNDEL HIGH,Maryland,9th Grade,12th Grade,2122,354,74,39.071243,-76.681988,2-No,2-No,2-No,21-Suburb: Large,240006000040,Anne Arundel County,†,21054,21-Suburb: Large,†,MD-02,MD-02-023013
+ATHOLTON HIGH,Maryland,9th Grade,12th Grade,1504,121,20,39.188151,-76.88064,2-No,2-No,2-No,13-City: Small,240042000719,Howard County,†,21044,13-City: Small,†,MD-13,MD-13-130509
+AUGUSTA FELLS SAVAGE INSTITUTE OF VISUAL ARTS,Maryland,9th Grade,12th Grade,419,419,"=""0""",39.297281,-76.64088199999998,2-No,2-No,2-No,11-City: Large,240009001387,Baltimore city,†,21217,11-City: Large,1-Yes,MD-30,MD-30-300430
+BALTIMORE CITY COLLEGE,Maryland,9th Grade,12th Grade,1363,1363,"=""0""",39.325783,-76.59706,2-No,2-No,2-No,11-City: Large,240009000150,Baltimore city,†,21218,11-City: Large,2-No,MD-30,MD-30-300480
+BALTIMORE POLYTECHNIC INSTITUTE,Maryland,9th Grade,12th Grade,1593,1593,"=""0""",39.34600800000001,-76.643051,2-No,2-No,2-No,11-City: Large,240009000151,Baltimore city,†,21209,11-City: Large,†,MD-30,MD-30-300403
+BALTIMORE SCHOOL FOR THE ARTS,Maryland,9th Grade,12th Grade,440,440,"=""0""",39.29831,-76.61728000000002,2-No,2-No,2-No,11-City: Large,240009001391,Baltimore city,†,21201,11-City: Large,†,MD-30,MD-30-300415
+BARBARA INGRAM SCHOOL FOR THE ARTS,Maryland,9th Grade,12th Grade,297,55,19,39.641801,-77.72093000000002,1-Yes,2-No,2-No,13-City: Small,240066001674,Washington County,†,21740,13-City: Small,†,MD-21,MD-21-210040
+BARD HIGH SCHOOL EARLY COLLEGE,Maryland,9th Grade,12th Grade,482,482,"=""0""",39.317956,-76.66435899999998,2-No,2-No,2-No,11-City: Large,240009001735,Baltimore city,†,21216,11-City: Large,1-Yes,MD-30,MD-30-300362
+BCDC EDUCATIONAL CENTER,Maryland,9th Grade,12th Grade,30,12,"=""0""",39.39944000000001,-76.606073,2-No,2-No,2-No,13-City: Small,240012001711,Baltimore County,†,21204,13-City: Small,†,MD-03,MD-03-030077
+BEL AIR HIGH,Maryland,9th Grade,12th Grade,1544,206,41,39.529993,-76.346462,2-No,2-No,2-No,22-Suburb: Mid-size,240039000683,Harford County,†,21014,22-Suburb: Mid-size,†,MD-12,MD-12-120373
+BENJAMIN FRANKLIN HIGH SCHOOL AT MASONVILLE COVE,Maryland,9th Grade,12th Grade,532,532,"=""0""",39.232679,-76.59355500000002,2-No,2-No,2-No,11-City: Large,240009000157,Baltimore city,†,21225,11-City: Large,1-Yes,MD-30,MD-30-300239
+BETHESDA-CHEVY CHASE HIGH,Maryland,9th Grade,12th Grade,2124,213,53,38.98669500000001,-77.08897900000002,2-No,2-No,2-No,13-City: Small,240048000784,Montgomery County,†,20814,13-City: Small,†,MD-15,MD-15-150406
+BLADENSBURG HIGH,Maryland,9th Grade,12th Grade,1853,1464,192,38.942431,-76.917836,1-Yes,2-No,2-No,21-Suburb: Large,240051000987,Prince George's County,†,20710,21-Suburb: Large,1-Yes,MD-16,MD-16-160208
+BOHEMIA MANOR HIGH,Maryland,9th Grade,12th Grade,670,183,32,39.510952,-75.83113900000002,2-No,2-No,2-No,41-Rural: Fringe,240024000558,Cecil County,†,21915,41-Rural: Fringe,†,MD-07,MD-07-070204
+BOONSBORO HIGH,Maryland,9th Grade,12th Grade,941,182,39,39.516031,-77.651589,2-No,2-No,2-No,22-Suburb: Mid-size,240066001256,Washington County,†,21713,22-Suburb: Mid-size,†,MD-21,MD-21-210601
+BOWIE HIGH,Maryland,9th Grade,12th Grade,2392,798,194,38.978222,-76.743199,2-No,2-No,2-No,21-Suburb: Large,240051000990,Prince George's County,†,20715,21-Suburb: Large,†,MD-16,MD-16-161423
+BROADNECK HIGH,Maryland,9th Grade,12th Grade,2153,223,52,39.039757,-76.45364599999998,2-No,2-No,2-No,21-Suburb: Large,240006001402,Anne Arundel County,†,21409,21-Suburb: Large,†,MD-02,MD-02-022363
+BRUNSWICK HIGH,Maryland,9th Grade,12th Grade,743,156,33,39.316752,-77.608804,2-No,2-No,2-No,31-Town: Fringe,240033000627,Frederick County,†,21716,31-Town: Fringe,†,MD-10,MD-10-102503
+C. MILTON WRIGHT HIGH,Maryland,9th Grade,12th Grade,1421,233,65,39.561491,-76.330022,2-No,2-No,2-No,22-Suburb: Mid-size,240039001380,Harford County,†,21015,22-Suburb: Mid-size,†,MD-12,MD-12-120385
+CALVERT HIGH,Maryland,9th Grade,12th Grade,1147,289,45,38.553486,-76.582891,2-No,2-No,2-No,41-Rural: Fringe,240015000508,Calvert County,†,20678,41-Rural: Fringe,2-No,MD-04,MD-04-040213
+CAMBRIDGE-SOUTH DORCHESTER HIGH SCHOOL,Maryland,9th Grade,12th Grade,816,816,"=""0""",38.54456500000001,-76.088756,2-No,2-No,2-No,41-Rural: Fringe,240030000612,Dorchester County,†,21613,41-Rural: Fringe,1-Yes,MD-09,MD-09-090713
+CARVER VOCATIONAL-TECHNICAL HIGH,Maryland,9th Grade,12th Grade,876,876,"=""0""",39.304502,-76.652727,2-No,2-No,2-No,11-City: Large,240009000168,Baltimore city,†,21216,11-City: Large,1-Yes,MD-30,MD-30-300454
+CATOCTIN HIGH,Maryland,9th Grade,12th Grade,761,167,39,39.63887800000001,-77.40972099999998,2-No,2-No,2-No,31-Town: Fringe,240033000629,Frederick County,†,21788,31-Town: Fringe,†,MD-10,MD-10-101509
+CATONSVILLE CENTER FOR ALTERNATIVE STUDIES,Maryland,9th Grade,12th Grade,65,45,5,39.252611,-76.725425,2-No,2-No,2-No,21-Suburb: Large,240012000436,Baltimore County,†,21228,21-Suburb: Large,1-Yes,MD-03,MD-03-030069
+CATONSVILLE HIGH,Maryland,9th Grade,12th Grade,1830,621,101,39.25959,-76.73134399999998,2-No,2-No,2-No,21-Suburb: Large,240012000355,Baltimore County,†,21228,21-Suburb: Large,†,MD-03,MD-03-030174
+CENTENNIAL HIGH,Maryland,9th Grade,12th Grade,1590,119,31,39.252957,-76.868643,2-No,2-No,2-No,41-Rural: Fringe,240042000722,Howard County,†,21042,41-Rural: Fringe,†,MD-13,MD-13-130214
+CENTRAL HIGH,Maryland,9th Grade,12th Grade,849,593,70,38.882208,-76.89117900000002,1-Yes,2-No,2-No,21-Suburb: Large,240051001002,Prince George's County,†,20743,21-Suburb: Large,†,MD-16,MD-16-161810
+CENTURY HIGH,Maryland,9th Grade,12th Grade,1128,79,13,39.424903,-76.99166,2-No,2-No,2-No,41-Rural: Fringe,240021001161,Carroll County,†,21784,41-Rural: Fringe,†,MD-06,MD-06-060510
+CHARLES HERBERT FLOWERS HIGH,Maryland,9th Grade,12th Grade,2186,1081,204,38.931495,-76.835031,1-Yes,2-No,2-No,21-Suburb: Large,240051002951,Prince George's County,†,20774,21-Suburb: Large,†,MD-16,MD-16-161327
+CHESAPEAKE HIGH,Maryland,9th Grade,12th Grade,981,683,132,39.292693,-76.419421,1-Yes,2-No,2-No,21-Suburb: Large,240012000362,Baltimore County,†,21221,21-Suburb: Large,1-Yes,MD-03,MD-03-031574
+CHESAPEAKE HIGH,Maryland,9th Grade,12th Grade,1379,208,46,39.110729,-76.46225799999998,2-No,2-No,2-No,21-Suburb: Large,240006000058,Anne Arundel County,†,21122,21-Suburb: Large,†,MD-02,MD-02-022273
+CHOPTICON HIGH,Maryland,9th Grade,12th Grade,1679,402,83,38.359659,-76.70622900000002,2-No,2-No,2-No,42-Rural: Distant,240060001218,St. Mary's County,†,20660,42-Rural: Distant,†,MD-18,MD-18-180303
+CITY NEIGHBORS HIGH,Maryland,9th Grade,12th Grade,417,417,"=""0""",39.350482,-76.554826,2-No,1-Yes,2-No,11-City: Large,240009001690,Baltimore city,†,21214,11-City: Large,1-Yes,MD-30,MD-30-300376
+CLARKSBURG HIGH,Maryland,9th Grade,12th Grade,2338,627,132,39.225848,-77.266097,2-No,2-No,2-No,21-Suburb: Large,240048001541,Montgomery County,†,20871,21-Suburb: Large,†,MD-15,MD-15-150249
+CLEAR SPRING HIGH,Maryland,9th Grade,12th Grade,462,145,33,39.657618,-77.93693,2-No,2-No,2-No,41-Rural: Fringe,240066001260,Washington County,†,21722,41-Rural: Fringe,†,MD-21,MD-21-210403
+COL. ZADOK MAGRUDER HIGH,Maryland,9th Grade,12th Grade,1609,530,109,39.131324,-77.118326,2-No,2-No,2-No,41-Rural: Fringe,240048000808,Montgomery County,†,20855,41-Rural: Fringe,†,MD-15,MD-15-150510
+COLONEL RICHARDSON HIGH SCHOOL,Maryland,9th Grade,12th Grade,526,278,41,38.754815,-75.82816,2-No,2-No,2-No,42-Rural: Distant,240018000518,Caroline County,†,21632,42-Rural: Distant,1-Yes,MD-05,MD-05-050801
+COPPIN ACADEMY,Maryland,9th Grade,12th Grade,352,352,"=""0""",39.30999,-76.65772,2-No,1-Yes,2-No,11-City: Large,240009001530,Baltimore city,†,21216,11-City: Large,1-Yes,MD-30,MD-30-300432
+CROSSLAND EVENING/SATURDAY HIGH,Maryland,9th Grade,12th Grade,200,117,13,38.794416,-76.930718,2-No,2-No,2-No,21-Suburb: Large,240051001062,Prince George's County,†,20748,21-Suburb: Large,†,MD-16,MD-16-162213
+CROSSLAND HIGH,Maryland,9th Grade,12th Grade,1015,634,117,38.794412,-76.930724,1-Yes,2-No,2-No,21-Suburb: Large,240051001017,Prince George's County,†,20748,21-Suburb: Large,†,MD-16,MD-16-161217
+DAMASCUS HIGH,Maryland,9th Grade,12th Grade,1311,208,45,39.282096,-77.210448,2-No,2-No,2-No,21-Suburb: Large,240048001455,Montgomery County,†,20872,21-Suburb: Large,†,MD-15,MD-15-150701
+DIGITAL HARBOR HIGH SCHOOL,Maryland,9th Grade,12th Grade,1196,1196,"=""0""",39.276597,-76.607535,2-No,2-No,2-No,11-City: Large,240009001313,Baltimore city,†,21230,11-City: Large,1-Yes,MD-30,MD-30-300416
+DR. HENRY A. WISE JR. HIGH,Maryland,9th Grade,12th Grade,2295,991,196,38.833955,-76.787819,2-No,2-No,2-No,21-Suburb: Large,240051001542,Prince George's County,†,20772,21-Suburb: Large,†,MD-16,MD-16-161519
+DULANEY HIGH,Maryland,9th Grade,12th Grade,1879,414,81,39.460917,-76.612039,2-No,2-No,2-No,21-Suburb: Large,240012000373,Baltimore County,†,21093,21-Suburb: Large,†,MD-03,MD-03-030872
+DUNDALK HIGH,Maryland,9th Grade,12th Grade,1621,1621,"=""0""",39.266351,-76.516297,2-No,2-No,2-No,21-Suburb: Large,240012000377,Baltimore County,†,21222,21-Suburb: Large,1-Yes,MD-03,MD-03-031273
+DUVAL HIGH,Maryland,9th Grade,12th Grade,2022,1337,226,38.989462,-76.837694,1-Yes,2-No,2-No,21-Suburb: Large,240051001023,Prince George's County,†,20706,21-Suburb: Large,†,MD-16,MD-16-161409
+EASTERN TECHNICAL HIGH SCHOOL,Maryland,9th Grade,12th Grade,1172,286,77,39.324987,-76.473251,1-Yes,2-No,2-No,21-Suburb: Large,240012000379,Baltimore County,†,21221,21-Suburb: Large,†,MD-03,MD-03-031575
+EASTON HIGH,Maryland,9th Grade,12th Grade,1196,499,42,38.755785,-76.065719,2-No,2-No,2-No,32-Town: Distant,240063001242,Talbot County,†,21601,32-Town: Distant,2-No,MD-20,MD-20-200101
+EDGEWOOD HIGH,Maryland,9th Grade,12th Grade,1387,781,140,39.423364,-76.28619599999998,1-Yes,2-No,2-No,22-Suburb: Mid-size,240039000690,Harford County,†,21040,22-Suburb: Mid-size,1-Yes,MD-12,MD-12-120176
+EDMONDSON-WESTSIDE HIGH,Maryland,9th Grade,12th Grade,881,881,"=""0""",39.29139,-76.688034,2-No,2-No,2-No,11-City: Large,240009000194,Baltimore city,†,21229,11-City: Large,1-Yes,MD-30,MD-30-300400
+ELEANOR ROOSEVELT HIGH,Maryland,9th Grade,12th Grade,2649,1230,250,38.994714,-76.86967,1-Yes,2-No,2-No,21-Suburb: Large,240051001027,Prince George's County,†,20770,21-Suburb: Large,†,MD-16,MD-16-162114
+ELKTON HIGH,Maryland,9th Grade,12th Grade,983,442,57,39.622872,-75.834841,2-No,2-No,2-No,21-Suburb: Large,240024000568,Cecil County,†,21921,21-Suburb: Large,†,MD-07,MD-07-070302
+EXTENDED DAY LEARNING PROGRAM,Maryland,9th Grade,12th Grade,67,36,3,39.39939,-76.606131,2-No,2-No,1-Yes,13-City: Small,240012000917,Baltimore County,†,21204,13-City: Small,†,MD-03,MD-03-030054
+FAIRMONT HEIGHTS HIGH,Maryland,9th Grade,12th Grade,798,577,78,38.917765,-76.895031,1-Yes,2-No,2-No,21-Suburb: Large,240051001029,Prince George's County,†,20785,21-Suburb: Large,†,MD-16,MD-16-161806
+FALLSTON HIGH,Maryland,9th Grade,12th Grade,985,93,20,39.524628,-76.412685,2-No,2-No,2-No,22-Suburb: Mid-size,240039000691,Harford County,†,21047,22-Suburb: Mid-size,†,MD-12,MD-12-120382
+FLEXIBLE STUDENT SUPPORT,Maryland,9th Grade,12th Grade,24,8,"=""0""",39.534835,-76.990829,2-No,2-No,2-No,41-Rural: Fringe,240021001350,Carroll County,†,21157,41-Rural: Fringe,†,MD-06,MD-06-060903
+FOREST PARK HIGH,Maryland,9th Grade,12th Grade,597,597,"=""0""",39.3326,-76.689406,2-No,2-No,2-No,11-City: Large,240009000203,Baltimore city,†,21207,11-City: Large,1-Yes,MD-30,MD-30-300406
+FORT HILL HIGH,Maryland,9th Grade,12th Grade,715,320,35,39.644341,-78.74767,2-No,2-No,2-No,13-City: Small,240003000015,Allegany County,†,21502,13-City: Small,†,MD-01,MD-01-010405
+FRANCIS SCOTT KEY HIGH,Maryland,9th Grade,12th Grade,929,275,65,39.592718,-77.13359200000002,2-No,2-No,2-No,41-Rural: Fringe,240021000533,Carroll County,†,21791,41-Rural: Fringe,†,MD-06,MD-06-060202
+FRANKLIN HIGH,Maryland,9th Grade,12th Grade,1460,516,102,39.448231,-76.817413,2-No,2-No,2-No,21-Suburb: Large,240012000390,Baltimore County,†,21136,21-Suburb: Large,†,MD-03,MD-03-030472
+FREDERICK DOUGLASS HIGH,Maryland,9th Grade,12th Grade,850,850,"=""0""",39.314815,-76.654892,2-No,2-No,2-No,11-City: Large,240009000209,Baltimore city,†,21217,11-City: Large,1-Yes,MD-30,MD-30-300450
+FREDERICK DOUGLASS HIGH,Maryland,9th Grade,12th Grade,996,360,89,38.781506,-76.78171999999998,2-No,2-No,2-No,41-Rural: Fringe,240051001036,Prince George's County,†,20772,41-Rural: Fringe,†,MD-16,MD-16-161502
+FREDERICK HIGH,Maryland,9th Grade,12th Grade,1407,568,76,39.416659,-77.42608100000002,2-No,2-No,2-No,13-City: Small,240033000632,Frederick County,†,21701,13-City: Small,†,MD-10,MD-10-100209
+FRIENDLY HIGH,Maryland,9th Grade,12th Grade,834,433,96,38.752107,-76.968574,2-No,2-No,2-No,21-Suburb: Large,240051001038,Prince George's County,†,20744,21-Suburb: Large,†,MD-16,MD-16-160511
+GAITHERSBURG HIGH,Maryland,9th Grade,12th Grade,2352,1020,193,39.136112,-77.19471899999998,2-No,2-No,2-No,13-City: Small,240048000838,Montgomery County,†,20877,13-City: Small,1-Yes,MD-15,MD-15-150551
+GATEWAY SCHOOL,Maryland,9th Grade,12th Grade,69,28,6,39.534835,-76.990829,2-No,2-No,2-No,41-Rural: Fringe,240021001548,Carroll County,†,21157,41-Rural: Fringe,†,MD-06,MD-06-060716
+GEORGE W. CARVER CENTER FOR ARTS & TECHNOLOGY,Maryland,9th Grade,12th Grade,942,189,65,39.40827,-76.610327,1-Yes,2-No,2-No,13-City: Small,240012000230,Baltimore County,†,21204,13-City: Small,†,MD-03,MD-03-030975
+GEORGE W. F. MCMECHEN HIGH,Maryland,9th Grade,12th Grade,46,46,"=""0""",39.33737,-76.683521,2-No,2-No,2-No,11-City: Large,240009000219,Baltimore city,†,21215,11-City: Large,1-Yes,MD-30,MD-30-300177
+GLEN BURNIE HIGH,Maryland,9th Grade,12th Grade,2035,831,155,39.159392,-76.617001,2-No,2-No,2-No,21-Suburb: Large,240006000075,Anne Arundel County,†,21060,21-Suburb: Large,2-No,MD-02,MD-02-021033
+GLENELG HIGH,Maryland,9th Grade,12th Grade,1198,34,9,39.275159,-77.002057,2-No,2-No,2-No,31-Town: Fringe,240042000731,Howard County,†,21737,31-Town: Fringe,†,MD-13,MD-13-130404
+GOV. THOMAS JOHNSON HIGH,Maryland,9th Grade,12th Grade,1703,600,106,39.433895,-77.405884,2-No,2-No,2-No,13-City: Small,240033000634,Frederick County,†,21701,13-City: Small,†,MD-10,MD-10-100213
+GREAT MILLS HIGH,Maryland,9th Grade,12th Grade,1682,792,104,38.24743400000001,-76.487496,2-No,2-No,2-No,23-Suburb: Small,240060001224,St. Mary's County,†,20634,23-Suburb: Small,†,MD-18,MD-18-180801
+GWYNN PARK HIGH,Maryland,9th Grade,12th Grade,935,338,78,38.701986,-76.87052800000002,2-No,2-No,2-No,21-Suburb: Large,240051001052,Prince George's County,†,20613,21-Suburb: Large,†,MD-16,MD-16-161103
+HAMMOND HIGH,Maryland,9th Grade,12th Grade,1360,357,69,39.167689,-76.860457,2-No,2-No,2-No,13-City: Small,240042000735,Howard County,†,21046,13-City: Small,2-No,MD-13,MD-13-130619
+HARFORD TECHNICAL HIGH,Maryland,9th Grade,12th Grade,1009,236,60,39.559172,-76.28752800000002,2-No,2-No,2-No,41-Rural: Fringe,240039000694,Harford County,†,21015,41-Rural: Fringe,†,MD-12,MD-12-120304
+HAVRE DE GRACE HIGH,Maryland,9th Grade,12th Grade,640,241,49,39.54795900000001,-76.09581800000002,2-No,2-No,2-No,22-Suburb: Mid-size,240039000697,Harford County,†,21078,22-Suburb: Mid-size,2-No,MD-12,MD-12-120678
+HEATHER RIDGE HIGH SCHOOL,Maryland,9th Grade,12th Grade,42,42,"=""0""",39.437967,-77.413399,2-No,2-No,2-No,13-City: Small,240033001410,Frederick County,†,21702,13-City: Small,1-Yes,MD-10,MD-10-100208
+HENRY E. LACKEY HIGH SCHOOL,Maryland,9th Grade,12th Grade,1022,442,75,38.579442,-77.127626,2-No,2-No,2-No,41-Rural: Fringe,240027000597,Charles County,†,20640,41-Rural: Fringe,2-No,MD-08,MD-08-081002
+HEREFORD HIGH,Maryland,9th Grade,12th Grade,1271,102,15,39.599545,-76.659439,2-No,2-No,2-No,41-Rural: Fringe,240012001432,Baltimore County,†,21120,41-Rural: Fringe,†,MD-03,MD-03-030772
+HIGH POINT HIGH,Maryland,9th Grade,12th Grade,2481,2029,279,39.042517,-76.94355300000002,2-No,2-No,2-No,21-Suburb: Large,240051001059,Prince George's County,†,20705,21-Suburb: Large,1-Yes,MD-16,MD-16-160102
+HOWARD HIGH,Maryland,9th Grade,12th Grade,1890,175,41,39.226497,-76.812751,2-No,2-No,2-No,13-City: Small,240042000738,Howard County,†,21043,13-City: Small,†,MD-13,MD-13-130203
+HUNTINGTOWN HIGH SCHOOL,Maryland,9th Grade,12th Grade,1464,136,26,38.61918,-76.609011,2-No,2-No,2-No,41-Rural: Fringe,240015001342,Calvert County,†,20639,41-Rural: Fringe,†,MD-04,MD-04-040217
+INDEPENDENCE SCHOOL LOCAL I,Maryland,9th Grade,12th Grade,150,150,"=""0""",39.331226,-76.637325,2-No,1-Yes,2-No,11-City: Large,240009001632,Baltimore city,†,21211,11-City: Large,1-Yes,MD-30,MD-30-300333
+INTERNATIONAL HIGH SCHOOL @ LANGLEY PARK,Maryland,9th Grade,12th Grade,332,327,16,38.940125,-76.930972,2-No,2-No,2-No,21-Suburb: Large,240051001738,Prince George's County,†,20710,21-Suburb: Large,†,MD-16,MD-16-161732
+INTERNATIONAL HIGH SCHOOL @ LARGO,Maryland,9th Grade,12th Grade,378,339,26,38.886615,-76.820025,2-No,2-No,2-No,21-Suburb: Large,240051001737,Prince George's County,†,20772,21-Suburb: Large,†,MD-16,MD-16-161352
+JAMES HUBERT BLAKE HIGH,Maryland,9th Grade,12th Grade,1717,617,153,39.113539,-77.017776,2-No,2-No,2-No,21-Suburb: Large,240048001044,Montgomery County,†,20905,21-Suburb: Large,2-No,MD-15,MD-15-150321
+JAMES M. BENNETT HIGH,Maryland,9th Grade,12th Grade,1567,767,81,38.346647,-75.590766,2-No,2-No,2-No,13-City: Small,240069001305,Wicomico County,†,21804,13-City: Small,†,MD-22,MD-22-221307
+JOHN F. KENNEDY HIGH,Maryland,9th Grade,12th Grade,1781,894,186,39.065893,-77.03869,2-No,2-No,2-No,21-Suburb: Large,240048000855,Montgomery County,†,20902,21-Suburb: Large,1-Yes,MD-15,MD-15-150815
+JOPPATOWNE HIGH,Maryland,9th Grade,12th Grade,763,507,85,39.414318,-76.351618,2-No,2-No,2-No,22-Suburb: Mid-size,240039000705,Harford County,†,21085,22-Suburb: Mid-size,1-Yes,MD-12,MD-12-120181
+KENT COUNTY HIGH,Maryland,9th Grade,12th Grade,563,264,26,39.285329,-76.091684,2-No,2-No,2-No,42-Rural: Distant,240045000768,Kent County,†,21678,42-Rural: Distant,†,MD-14,MD-14-140301
+KENT ISLAND HIGH SCHOOL,Maryland,9th Grade,12th Grade,1222,185,35,38.991128,-76.309347,2-No,2-No,2-No,21-Suburb: Large,240054001076,Queen Anne's County,†,21666,21-Suburb: Large,†,MD-17,MD-17-170405
+KENWOOD HIGH IB AND SPORTS SCIENCE,Maryland,9th Grade,12th Grade,1622,996,150,39.32564,-76.46236,1-Yes,2-No,2-No,21-Suburb: Large,240012000412,Baltimore County,†,21221,21-Suburb: Large,1-Yes,MD-03,MD-03-031572
+LA PLATA HIGH SCHOOL,Maryland,9th Grade,12th Grade,1152,211,42,38.54616400000001,-76.95023499999998,2-No,2-No,2-No,41-Rural: Fringe,240027000596,Charles County,†,20646,41-Rural: Fringe,†,MD-08,MD-08-080106
+LANSDOWNE HIGH & ACADEMY OF FINANCE,Maryland,9th Grade,12th Grade,1291,812,110,39.245117,-76.651059,1-Yes,2-No,2-No,21-Suburb: Large,240012000416,Baltimore County,†,21227,21-Suburb: Large,1-Yes,MD-03,MD-03-031371
+LARGO HIGH,Maryland,9th Grade,12th Grade,843,476,75,38.886644,-76.82003900000002,1-Yes,2-No,2-No,21-Suburb: Large,240051001089,Prince George's County,†,20774,21-Suburb: Large,†,MD-16,MD-16-161314
+LAUREL HIGH,Maryland,9th Grade,12th Grade,1845,1130,212,39.09434,-76.867634,1-Yes,2-No,2-No,21-Suburb: Large,240051001092,Prince George's County,†,20707,21-Suburb: Large,†,MD-16,MD-16-161008
+LEONARDTOWN HIGH,Maryland,9th Grade,12th Grade,1796,272,39,38.269836,-76.61122900000002,2-No,2-No,2-No,41-Rural: Fringe,240060001356,St. Mary's County,†,20650,41-Rural: Fringe,†,MD-18,MD-18-180306
+LIBERTY HIGH,Maryland,9th Grade,12th Grade,1049,48,13,39.413269,-76.95269499999998,2-No,2-No,2-No,23-Suburb: Small,240021001394,Carroll County,†,21784,23-Suburb: Small,†,MD-06,MD-06-060507
+LINGANORE HIGH,Maryland,9th Grade,12th Grade,1324,91,13,39.433063,-77.247231,2-No,2-No,2-No,41-Rural: Fringe,240033000638,Frederick County,†,21701,41-Rural: Fringe,†,MD-10,MD-10-100912
+LOCH RAVEN HIGH,Maryland,9th Grade,12th Grade,870,345,66,39.404814,-76.563846,2-No,2-No,2-No,21-Suburb: Large,240012000420,Baltimore County,†,21286,21-Suburb: Large,†,MD-03,MD-03-030973
+LONG REACH HIGH,Maryland,9th Grade,12th Grade,1554,447,92,39.205265,-76.811285,2-No,2-No,2-No,13-City: Small,240042000822,Howard County,†,21045,13-City: Small,2-No,MD-13,MD-13-130623
+MANCHESTER VALLEY HIGH,Maryland,9th Grade,12th Grade,1304,169,37,39.653925,-76.878844,2-No,2-No,2-No,31-Town: Fringe,240021001672,Carroll County,†,21102,31-Town: Fringe,†,MD-06,MD-06-060602
+MARRIOTTS RIDGE HIGH,Maryland,9th Grade,12th Grade,1419,47,9,39.321896,-76.934407,2-No,2-No,2-No,41-Rural: Fringe,240042001437,Howard County,†,21104,41-Rural: Fringe,†,MD-13,MD-13-130308
+MAURICE J. MCDONOUGH HIGH SCHOOL,Maryland,9th Grade,12th Grade,872,209,38,38.555758,-77.035139,2-No,2-No,2-No,41-Rural: Fringe,240027000600,Charles County,†,20675,41-Rural: Fringe,†,MD-08,MD-08-080108
+MEADE HIGH,Maryland,9th Grade,12th Grade,2039,835,169,39.122447,-76.737827,2-No,2-No,2-No,21-Suburb: Large,240006000099,Anne Arundel County,†,20755,21-Suburb: Large,†,MD-02,MD-02-023323
+MERGENTHALER VOCATIONAL-TECHNICAL HIGH,Maryland,9th Grade,12th Grade,1706,1706,"=""0""",39.332233,-76.591098,2-No,2-No,2-No,11-City: Large,240009000280,Baltimore city,†,21218,11-City: Large,1-Yes,MD-30,MD-30-300410
+MIDDLETOWN HIGH,Maryland,9th Grade,12th Grade,1135,95,19,39.446641,-77.534361,2-No,2-No,2-No,41-Rural: Fringe,240033000641,Frederick County,†,21769,41-Rural: Fringe,†,MD-10,MD-10-100313
+MILFORD MILL ACADEMY,Maryland,9th Grade,12th Grade,1233,680,110,39.356486,-76.750057,1-Yes,2-No,2-No,21-Suburb: Large,240012000432,Baltimore County,†,21207,21-Suburb: Large,†,MD-03,MD-03-030271
+MONTGOMERY BLAIR HIGH,Maryland,9th Grade,12th Grade,3196,1057,203,39.017919,-77.011501,1-Yes,2-No,2-No,21-Suburb: Large,240048000877,Montgomery County,†,20901,21-Suburb: Large,†,MD-15,MD-15-150757
+MOUNT HEBRON HIGH,Maryland,9th Grade,12th Grade,1627,174,34,39.299347,-76.84016,2-No,2-No,2-No,21-Suburb: Large,240042000743,Howard County,†,21042,21-Suburb: Large,†,MD-13,MD-13-130207
+MOUNTAIN RIDGE HIGH SCHOOL,Maryland,9th Grade,12th Grade,792,288,40,39.650263,-78.913692,2-No,2-No,2-No,23-Suburb: Small,240003001636,Allegany County,†,21532,23-Suburb: Small,†,MD-01,MD-01-012404
+NEW ERA ACADEMY,Maryland,9th Grade,12th Grade,288,288,"=""0""",39.252954,-76.62129399999998,2-No,2-No,2-No,11-City: Large,240009001559,Baltimore city,†,21225,11-City: Large,1-Yes,MD-30,MD-30-300422
+NEW TOWN HIGH,Maryland,9th Grade,12th Grade,1102,500,96,39.403226,-76.812423,2-No,2-No,2-No,21-Suburb: Large,240012001547,Baltimore County,†,21117,21-Suburb: Large,†,MD-03,MD-03-030473
+NORTH CAROLINE HIGH SCHOOL,Maryland,9th Grade,12th Grade,1121,522,51,38.908802,-75.841102,2-No,2-No,2-No,41-Rural: Fringe,240018000523,Caroline County,†,21660,41-Rural: Fringe,1-Yes,MD-05,MD-05-050703
+NORTH COUNTY HIGH,Maryland,9th Grade,12th Grade,2289,1025,190,39.193116,-76.637349,2-No,2-No,2-No,21-Suburb: Large,240006090441,Anne Arundel County,†,21061,21-Suburb: Large,2-No,MD-02,MD-02-021323
+NORTH DORCHESTER HIGH SCHOOL,Maryland,9th Grade,12th Grade,496,496,"=""0""",38.587746,-75.87358499999998,2-No,2-No,2-No,42-Rural: Distant,240030000618,Dorchester County,†,21643,42-Rural: Distant,†,MD-09,MD-09-090207
+NORTH EAST HIGH,Maryland,9th Grade,12th Grade,1029,330,56,39.585361,-75.933238,2-No,2-No,2-No,41-Rural: Fringe,240024000575,Cecil County,†,21901,41-Rural: Fringe,†,MD-07,MD-07-070514
+NORTH HAGERSTOWN HIGH,Maryland,9th Grade,12th Grade,1338,557,77,39.66231,-77.7163,1-Yes,2-No,2-No,13-City: Small,240066001275,Washington County,†,21742,13-City: Small,1-Yes,MD-21,MD-21-212101
+NORTH HARFORD HIGH,Maryland,9th Grade,12th Grade,1212,202,62,39.675955,-76.40034200000002,1-Yes,2-No,2-No,42-Rural: Distant,240039000710,Harford County,†,21132,42-Rural: Distant,†,MD-12,MD-12-120580
+NORTH POINT HIGH SCHOOL,Maryland,9th Grade,12th Grade,1717,332,75,38.643076,-76.97678499999998,2-No,2-No,2-No,22-Suburb: Mid-size,240027001416,Charles County,†,20603,22-Suburb: Mid-size,†,MD-08,MD-08-080623
+NORTHEAST HIGH,Maryland,9th Grade,12th Grade,1375,358,68,39.144402,-76.529089,2-No,2-No,2-No,21-Suburb: Large,240006000103,Anne Arundel County,†,21122,21-Suburb: Large,†,MD-02,MD-02-022023
+NORTHERN GARRETT HIGH SCHOOL,Maryland,9th Grade,12th Grade,439,167,36,39.66449,-79.297646,2-No,2-No,2-No,42-Rural: Distant,240036000671,Garrett County,†,21520,42-Rural: Distant,†,MD-11,MD-11-110512
+NORTHERN HIGH,Maryland,9th Grade,12th Grade,1461,148,27,38.685816,-76.652249,2-No,2-No,2-No,41-Rural: Fringe,240015000516,Calvert County,†,20736,41-Rural: Fringe,†,MD-04,MD-04-040314
+NORTHWEST HIGH,Maryland,9th Grade,12th Grade,2586,574,122,39.151843,-77.279489,2-No,2-No,2-No,21-Suburb: Large,240048001040,Montgomery County,†,20874,21-Suburb: Large,†,MD-15,MD-15-150246
+NORTHWESTERN EVENING/SATURDAY HIGH,Maryland,9th Grade,12th Grade,276,191,19,38.974817,-76.95451,2-No,2-No,2-No,21-Suburb: Large,240051001054,Prince George's County,†,20782,21-Suburb: Large,†,MD-16,MD-16-162211
+NORTHWESTERN HIGH,Maryland,9th Grade,12th Grade,2315,1719,251,38.974836,-76.95448,1-Yes,2-No,2-No,21-Suburb: Large,240051001114,Prince George's County,†,20782,21-Suburb: Large,1-Yes,MD-16,MD-16-161708
+NORTHWOOD HIGH SCHOOL,Maryland,9th Grade,12th Grade,1732,853,182,39.035445,-77.022889,2-No,2-No,2-No,21-Suburb: Large,240048001366,Montgomery County,†,20901,21-Suburb: Large,1-Yes,MD-15,MD-15-150796
+OAKDALE HIGH,Maryland,9th Grade,12th Grade,1255,98,19,39.39464,-77.30994,2-No,2-No,2-No,22-Suburb: Mid-size,240033001688,Frederick County,†,21754,22-Suburb: Mid-size,†,MD-10,MD-10-100920
+OAKLAND MILLS HIGH,Maryland,9th Grade,12th Grade,1216,425,65,39.208734,-76.83908100000002,2-No,2-No,2-No,13-City: Small,240042000745,Howard County,†,21045,13-City: Small,1-Yes,MD-13,MD-13-130611
+OLD MILL HIGH,Maryland,9th Grade,12th Grade,2204,742,134,39.123149,-76.627674,2-No,2-No,2-No,21-Suburb: Large,240006000109,Anne Arundel County,†,21108,21-Suburb: Large,†,MD-02,MD-02-023353
+OVERLEA HIGH & ACADEMY OF FINANCE,Maryland,9th Grade,12th Grade,987,609,107,39.349453,-76.51130500000002,1-Yes,2-No,2-No,21-Suburb: Large,240012000438,Baltimore County,†,21206,21-Suburb: Large,1-Yes,MD-03,MD-03-031473
+OWINGS MILLS HIGH,Maryland,9th Grade,12th Grade,1160,695,108,39.423327,-76.79495,2-No,2-No,2-No,21-Suburb: Large,240012001347,Baltimore County,†,21117,21-Suburb: Large,†,MD-03,MD-03-030452
+OXON HILL HIGH,Maryland,9th Grade,12th Grade,1448,686,120,38.797563,-76.992311,1-Yes,2-No,2-No,21-Suburb: Large,240051001123,Prince George's County,†,20745,21-Suburb: Large,†,MD-16,MD-16-161209
+PAINT BRANCH HIGH,Maryland,9th Grade,12th Grade,2005,709,145,39.088385,-76.946554,2-No,2-No,2-No,21-Suburb: Large,240048000890,Montgomery County,†,20866,21-Suburb: Large,2-No,MD-15,MD-15-150315
+PARKDALE HIGH,Maryland,9th Grade,12th Grade,2367,1776,315,38.970059,-76.90442900000002,1-Yes,2-No,2-No,21-Suburb: Large,240051001126,Prince George's County,†,20737,21-Suburb: Large,1-Yes,MD-16,MD-16-161909
+PARKSIDE HIGH,Maryland,9th Grade,12th Grade,1140,474,48,38.349646,-75.573275,2-No,2-No,1-Yes,13-City: Small,240069001309,Wicomico County,†,21804,13-City: Small,†,MD-22,MD-22-221309
+PARKVILLE HIGH & CENTER FOR MATH/SCIENCE,Maryland,9th Grade,12th Grade,1884,1088,179,39.38869,-76.539123,1-Yes,2-No,2-No,21-Suburb: Large,240012000443,Baltimore County,†,21234,21-Suburb: Large,†,MD-03,MD-03-030972
+PATAPSCO HIGH & CENTER FOR ARTS,Maryland,9th Grade,12th Grade,1441,855,166,39.265381,-76.489106,1-Yes,2-No,2-No,21-Suburb: Large,240012000444,Baltimore County,†,21222,21-Suburb: Large,1-Yes,MD-03,MD-03-031272
+PATTERSON HIGH,Maryland,9th Grade,12th Grade,1049,1049,"=""0""",39.29279,-76.537205,2-No,2-No,2-No,11-City: Large,240009000297,Baltimore city,†,21224,11-City: Large,1-Yes,MD-30,MD-30-300405
+PATTERSON MILL HIGH SCHOOL,Maryland,9th Grade,12th Grade,826,109,24,39.507232,-76.3231,2-No,2-No,2-No,22-Suburb: Mid-size,240039001638,Harford County,†,21015,22-Suburb: Mid-size,†,MD-12,MD-12-120187
+PATUXENT HIGH,Maryland,9th Grade,12th Grade,1047,329,69,38.354922,-76.440077,2-No,2-No,2-No,23-Suburb: Small,240015000611,Calvert County,†,20657,23-Suburb: Small,2-No,MD-04,MD-04-040113
+PAUL LAURENCE DUNBAR HIGH,Maryland,9th Grade,12th Grade,881,881,"=""0""",39.29554,-76.59848000000002,2-No,2-No,2-No,11-City: Large,240009000298,Baltimore city,†,21231,11-City: Large,1-Yes,MD-30,MD-30-300414
+PERRY HALL HIGH,Maryland,9th Grade,12th Grade,1974,682,152,39.392634,-76.464568,2-No,2-No,2-No,21-Suburb: Large,240012000446,Baltimore County,†,21236,21-Suburb: Large,†,MD-03,MD-03-031171
+PERRYVILLE HIGH,Maryland,9th Grade,12th Grade,764,227,43,39.582243,-76.062973,2-No,2-No,2-No,22-Suburb: Mid-size,240024000577,Cecil County,†,21903,22-Suburb: Mid-size,†,MD-07,MD-07-070705
+PIKESVILLE HIGH,Maryland,9th Grade,12th Grade,905,334,52,39.37736,-76.69872600000002,2-No,2-No,2-No,21-Suburb: Large,240012000449,Baltimore County,†,21208,21-Suburb: Large,†,MD-03,MD-03-030371
+POCOMOKE HIGH,Maryland,9th Grade,12th Grade,333,213,40,38.059829,-75.552657,2-No,2-No,2-No,32-Town: Distant,240072001330,Worcester County,†,21851,32-Town: Distant,1-Yes,MD-23,MD-23-230107
+POOLESVILLE HIGH,Maryland,9th Grade,12th Grade,1185,88,22,39.143181,-77.418371,1-Yes,2-No,2-No,31-Town: Fringe,240048000897,Montgomery County,†,20837,31-Town: Fringe,†,MD-15,MD-15-150152
+POTOMAC HIGH,Maryland,9th Grade,12th Grade,1208,870,127,38.821057,-76.97719599999998,2-No,2-No,2-No,21-Suburb: Large,240051001133,Prince George's County,†,20745,21-Suburb: Large,1-Yes,MD-16,MD-16-161220
+QUEEN ANNE'S COUNTY HIGH SCHOOL,Maryland,9th Grade,12th Grade,1156,279,40,39.037716,-76.053081,2-No,2-No,2-No,41-Rural: Fringe,240054001195,Queen Anne's County,†,21617,41-Rural: Fringe,†,MD-17,MD-17-170301
+QUINCE ORCHARD HIGH,Maryland,9th Grade,12th Grade,2100,452,80,39.115976,-77.25441,2-No,2-No,2-No,21-Suburb: Large,240048001509,Montgomery County,†,20878,21-Suburb: Large,†,MD-15,MD-15-150125
+RANDALLSTOWN HIGH,Maryland,9th Grade,12th Grade,969,545,91,39.382646,-76.796875,1-Yes,2-No,2-No,21-Suburb: Large,240012000458,Baltimore County,†,21133,21-Suburb: Large,†,MD-03,MD-03-030272
+REGINALD F. LEWIS HIGH,Maryland,9th Grade,12th Grade,541,541,"=""0""",39.365624,-76.571874,2-No,2-No,2-No,11-City: Large,240009001331,Baltimore city,†,21214,11-City: Large,1-Yes,MD-30,MD-30-300419
+RENAISSANCE ACADEMY,Maryland,9th Grade,12th Grade,245,245,"=""0""",39.303183,-76.627872,2-No,2-No,2-No,11-City: Large,240009001531,Baltimore city,†,21217,11-City: Large,1-Yes,MD-30,MD-30-300433
+RESERVOIR HIGH,Maryland,9th Grade,12th Grade,1581,294,80,39.151762,-76.913176,2-No,2-No,2-No,41-Rural: Fringe,240042001200,Howard County,†,20759,41-Rural: Fringe,†,MD-13,MD-13-130527
+RICHARD MONTGOMERY HIGH,Maryland,9th Grade,12th Grade,2483,491,107,39.077556,-77.145512,1-Yes,2-No,2-No,13-City: Small,240048000902,Montgomery County,†,20852,13-City: Small,†,MD-15,MD-15-150201
+RISING SUN HIGH,Maryland,9th Grade,12th Grade,1122,261,50,39.691769,-75.97129100000002,2-No,2-No,2-No,41-Rural: Fringe,240024090469,Cecil County,†,21901,41-Rural: Fringe,†,MD-07,MD-07-070905
+RIVER HILL HIGH,Maryland,9th Grade,12th Grade,1382,63,13,39.215301,-76.92884000000002,2-No,2-No,2-No,13-City: Small,240042000816,Howard County,†,21029,13-City: Small,†,MD-13,MD-13-130524
+ROCKVILLE HIGH,Maryland,9th Grade,12th Grade,1450,350,62,39.08663,-77.118597,2-No,2-No,2-No,13-City: Small,240048000912,Montgomery County,†,20851,13-City: Small,†,MD-15,MD-15-150230
+SENECA VALLEY HIGH,Maryland,9th Grade,12th Grade,1181,444,75,39.17520800000001,-77.26422,2-No,2-No,2-No,21-Suburb: Large,240048000918,Montgomery County,†,20874,21-Suburb: Large,2-No,MD-15,MD-15-150104
+SEVERNA PARK HIGH,Maryland,9th Grade,12th Grade,1865,66,8,39.076619,-76.55828199999998,2-No,2-No,2-No,21-Suburb: Large,240006000127,Anne Arundel County,†,21146,21-Suburb: Large,†,MD-02,MD-02-022013
+SHERWOOD HIGH,Maryland,9th Grade,12th Grade,1973,297,51,39.148182,-77.01876700000003,2-No,2-No,2-No,21-Suburb: Large,240048000921,Montgomery County,†,20860,21-Suburb: Large,†,MD-15,MD-15-150503
+SMITHSBURG HIGH,Maryland,9th Grade,12th Grade,757,225,33,39.662076,-77.574292,2-No,2-No,2-No,22-Suburb: Mid-size,240066001285,Washington County,†,21783,22-Suburb: Mid-size,†,MD-21,MD-21-210701
+SNOW HILL HIGH,Maryland,9th Grade,12th Grade,322,144,26,38.169082,-75.389752,2-No,2-No,2-No,42-Rural: Distant,240072001334,Worcester County,†,21863,42-Rural: Distant,2-No,MD-23,MD-23-230207
+SOUTH CARROLL HIGH,Maryland,9th Grade,12th Grade,1031,100,19,39.443149,-77.04151,2-No,2-No,2-No,41-Rural: Fringe,240021000546,Carroll County,†,21784,41-Rural: Fringe,†,MD-06,MD-06-061401
+SOUTH HAGERSTOWN HIGH,Maryland,9th Grade,12th Grade,1259,709,71,39.620424,-77.732173,1-Yes,2-No,2-No,13-City: Small,240066001288,Washington County,†,21740,13-City: Small,1-Yes,MD-21,MD-21-210301
+SOUTH RIVER HIGH,Maryland,9th Grade,12th Grade,2179,224,41,38.922015,-76.559954,2-No,2-No,2-No,21-Suburb: Large,240006000055,Anne Arundel County,†,21037,21-Suburb: Large,†,MD-02,MD-02-024293
+SOUTHERN GARRETT HIGH SCHOOL,Maryland,9th Grade,12th Grade,715,291,63,39.404611,-79.389999,2-No,2-No,2-No,32-Town: Distant,240036000674,Garrett County,†,21550,32-Town: Distant,†,MD-11,MD-11-110709
+SOUTHERN HIGH,Maryland,9th Grade,12th Grade,997,218,39,38.86858,-76.61918299999998,2-No,2-No,2-No,41-Rural: Fringe,240006000132,Anne Arundel County,†,20776,41-Rural: Fringe,†,MD-02,MD-02-024023
+SPARROWS POINT HIGH,Maryland,9th Grade,12th Grade,992,382,89,39.238614,-76.442131,1-Yes,2-No,2-No,21-Suburb: Large,240012000477,Baltimore County,†,21219,21-Suburb: Large,†,MD-03,MD-03-031573
+SPRINGBROOK HIGH,Maryland,9th Grade,12th Grade,1735,828,176,39.058235,-77.005672,2-No,2-No,2-No,21-Suburb: Large,240048000926,Montgomery County,†,20904,21-Suburb: Large,1-Yes,MD-15,MD-15-150798
+ST. CHARLES HIGH SCHOOL,Maryland,9th Grade,12th Grade,1335,457,82,38.567694,-76.908996,2-No,2-No,2-No,41-Rural: Fringe,240027001727,Charles County,†,20602,41-Rural: Fringe,†,MD-08,MD-08-080802
+STEPHEN DECATUR HIGH,Maryland,9th Grade,12th Grade,1363,417,57,38.341732,-75.19026099999998,2-No,2-No,2-No,32-Town: Distant,240072001335,Worcester County,†,21811,32-Town: Distant,†,MD-23,MD-23-230310
+SUITLAND HIGH,Maryland,9th Grade,12th Grade,1921,1205,193,38.853948,-76.91761600000002,1-Yes,2-No,2-No,21-Suburb: Large,240051001164,Prince George's County,†,20747,21-Suburb: Large,†,MD-16,MD-16-160603
+SURRATTSVILLE HIGH,Maryland,9th Grade,12th Grade,702,350,76,38.762179,-76.901168,2-No,2-No,2-No,21-Suburb: Large,240051001167,Prince George's County,†,20735,21-Suburb: Large,†,MD-16,MD-16-160908
+THE REACH! PARTNERSHIP SCHOOL,Maryland,9th Grade,12th Grade,545,545,"=""0""",39.31769,-76.585251,2-No,2-No,2-No,11-City: Large,240009001663,Baltimore city,†,21213,11-City: Large,1-Yes,MD-30,MD-30-300341
+THOMAS S. WOOTTON HIGH,Maryland,9th Grade,12th Grade,2107,109,25,39.076714,-77.183144,2-No,2-No,2-No,13-City: Small,240048000934,Montgomery County,†,20850,13-City: Small,†,MD-15,MD-15-150234
+THOMAS STONE HIGH SCHOOL,Maryland,9th Grade,12th Grade,1181,542,92,38.614593,-76.886485,2-No,2-No,2-No,22-Suburb: Mid-size,240027000607,Charles County,†,20601,22-Suburb: Mid-size,2-No,MD-08,MD-08-080605
+TOWSON HIGH LAW & PUBLIC POLICY,Maryland,9th Grade,12th Grade,1629,274,62,39.390557,-76.600802,1-Yes,2-No,2-No,13-City: Small,240012000487,Baltimore County,†,21286,13-City: Small,†,MD-03,MD-03-030971
+TUSCARORA HIGH,Maryland,9th Grade,12th Grade,1580,407,73,39.377965,-77.44579,2-No,2-No,2-No,22-Suburb: Mid-size,240033001550,Frederick County,†,21703,22-Suburb: Mid-size,†,MD-10,MD-10-102307
+URBANA HIGH,Maryland,9th Grade,12th Grade,1790,106,29,39.326755,-77.33953100000002,2-No,2-No,2-No,41-Rural: Fringe,240033000616,Frederick County,†,21754,41-Rural: Fringe,†,MD-10,MD-10-100713
+VIVIEN T. THOMAS MEDICAL ARTS ACADEMY,Maryland,9th Grade,12th Grade,371,371,"=""0""",39.290266,-76.639953,2-No,2-No,2-No,11-City: Large,240009001385,Baltimore city,†,21223,11-City: Large,1-Yes,MD-30,MD-30-300429
+WALKERSVILLE HIGH,Maryland,9th Grade,12th Grade,1152,222,24,39.475391,-77.36133199999998,2-No,2-No,2-No,41-Rural: Fringe,240033000655,Frederick County,†,21793,41-Rural: Fringe,†,MD-10,MD-10-102610
+WALT WHITMAN HIGH,Maryland,9th Grade,12th Grade,2098,40,5,38.98164600000001,-77.12775500000002,2-No,2-No,2-No,13-City: Small,240048000941,Montgomery County,†,20817,13-City: Small,†,MD-15,MD-15-150427
+WALTER JOHNSON HIGH,Maryland,9th Grade,12th Grade,2587,193,44,39.025939,-77.130142,2-No,2-No,2-No,21-Suburb: Large,240048000942,Montgomery County,†,20814,21-Suburb: Large,†,MD-15,MD-15-150424
+WATKINS MILL HIGH,Maryland,9th Grade,12th Grade,1615,804,140,39.183903,-77.216352,2-No,2-No,2-No,21-Suburb: Large,240048001525,Montgomery County,†,20879,21-Suburb: Large,1-Yes,MD-15,MD-15-150545
+WESTERN HIGH,Maryland,9th Grade,12th Grade,1086,1086,"=""0""",39.347203,-76.642638,2-No,2-No,2-No,11-City: Large,240009000330,Baltimore city,†,21209,11-City: Large,1-Yes,MD-30,MD-30-300407
+WESTERN SCHOOL OF TECHNOLOGY & ENV. SCIENCE,Maryland,9th Grade,12th Grade,909,311,83,39.269703,-76.713125,1-Yes,2-No,2-No,21-Suburb: Large,240012000248,Baltimore County,†,21228,21-Suburb: Large,†,MD-03,MD-03-030175
+WESTLAKE HIGH SCHOOL,Maryland,9th Grade,12th Grade,1198,401,94,38.621892,-76.96683,2-No,2-No,2-No,22-Suburb: Mid-size,240027000144,Charles County,†,20603,22-Suburb: Mid-size,†,MD-08,MD-08-080619
+WESTMINSTER HIGH,Maryland,9th Grade,12th Grade,1540,169,29,39.541382,-76.992302,2-No,2-No,2-No,23-Suburb: Small,240021000552,Carroll County,†,21157,23-Suburb: Small,†,MD-06,MD-06-060707
+WHEATON HIGH,Maryland,9th Grade,12th Grade,2077,963,246,39.060896,-77.066457,2-No,2-No,2-No,21-Suburb: Large,240048000951,Montgomery County,†,20906,21-Suburb: Large,1-Yes,MD-15,MD-15-150782
+WICOMICO COUNTY EVENING HIGH,Maryland,9th Grade,12th Grade,77,3,–,38.365066,-75.57945500000002,2-No,2-No,2-No,23-Suburb: Small,240069001088,Wicomico County,†,21802,23-Suburb: Small,†,MD-22,MD-22-220520
+WICOMICO HIGH,Maryland,9th Grade,12th Grade,1039,621,77,38.365062,-75.579421,2-No,2-No,2-No,23-Suburb: Small,240069001320,Wicomico County,†,21804,23-Suburb: Small,†,MD-22,MD-22-220513
+WILDE LAKE HIGH,Maryland,9th Grade,12th Grade,1291,427,61,39.217236,-76.872855,2-No,2-No,2-No,13-City: Small,240042000762,Howard County,†,21044,13-City: Small,2-No,MD-13,MD-13-130516
+WILLIAMSPORT HIGH,Maryland,9th Grade,12th Grade,898,352,42,39.596554,-77.810195,2-No,2-No,2-No,22-Suburb: Mid-size,240066001295,Washington County,†,21795,22-Suburb: Mid-size,†,MD-21,MD-21-210204
+WINSTON CHURCHILL HIGH,Maryland,9th Grade,12th Grade,2227,79,17,39.044068,-77.17303299999998,2-No,2-No,2-No,21-Suburb: Large,240048000956,Montgomery County,†,20854,21-Suburb: Large,†,MD-15,MD-15-150602
+WINTERS MILL HIGH,Maryland,9th Grade,12th Grade,1126,239,41,39.57129000000001,-76.976617,2-No,2-No,2-No,41-Rural: Fringe,240021001185,Carroll County,†,21157,41-Rural: Fringe,†,MD-06,MD-06-060704
+WOODLAWN HIGH CENTER FOR PRE-ENG. RES.,Maryland,9th Grade,12th Grade,1575,997,159,39.315184,-76.734817,1-Yes,2-No,2-No,21-Suburb: Large,240012000502,Baltimore County,†,21207,21-Suburb: Large,1-Yes,MD-03,MD-03-030172
